@@ -8,4 +8,4 @@ esirpg/buddha
 sbs20/scanservjs
 ydkn/cups
 pihole/pihole
-openwrt
+openwrt/openwrt
